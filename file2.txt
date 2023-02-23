@@ -1,6 +1,3 @@
 this is file2 hi
 change from github
 
-change from github2
-hello
-
